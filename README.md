@@ -1,3 +1,2 @@
 # helloWorld
-repositorio criado para atividade sugerida - FATEC Jacareí, Engenharia de DSM2-2024
-teste
+estudante de Desenvilvimento de Sistemas Multiplataforma pela FATEC Jacareí
